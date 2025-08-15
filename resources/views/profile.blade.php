@@ -2,7 +2,7 @@
     <nav class="navbar bg-base-100 rounded-box shadow-base-300/20 shadow-sm sticky top-4 z-50 border-b-2">
         <div class="flex flex-1 items-center">
             <a class="link text-base-content link-neutral text-xl font-bold no-underline flex items-end" href="/">
-                <span>عصفور</span>
+                <span>LA</span>
                 <span class="icon-[tabler--brand-twitter] size-8"></span>
             </a>
         </div>
